@@ -3,28 +3,76 @@ title: "index"
 format: html
 editor: visual
 ---
-#Title
- git config -- globle user.email "ZZZ-Y-X@github.io"
-git config --global user.name "ZZZ-Y-X"
 
- 
-## Quarto
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+Zheng Yaxuan
 
-## Running Code
 
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+$+(86) 15226096636$ | 2945158324@qq.com
 
-```{r}
-1 + 1
-```
+## Educational background
 
-You can add options to executable code like this
+Xi 'an Jiaotong-Liverpool University Suzhou
 
-```{r}
-#| echo: false
-2 * 2
-```
+Junior in Financial Mathematics 2021.09-2025.06
 
-The `echo: false` option disables the printing of code (only output is displayed).
+Core courses: Econometrics, Probability Theory and Data Statistics, Microeconomics, Macroeconomics, Stochastic Processes, 
+Honors: University Academic Achievement Award, 2021-2022; Outstanding Volunteer of the Year 2022-2023
+
+# Internship Experience
+
+## Yangtze River Delta Institute of Digital Finance
+
+Department of Financial Operations and Research 2023.06-2023.09
+
+> Collect and analyze the data related to the use of digital RMB in various cities in Jiangsu Province and conduct current situation analysis and future prediction to promote wider usage.
+
+> Analyze the application of digital RMB in different industries and scenarios, such as retail, catering, transportation, entertainment.
+
+> Combined with consumption amount, use collected data to study the application scenarios of digital RMB and expand the development prospects of digital RMB.
+
+> Use data to analyze the scenarios and preferences of consumers using digital RMB to understand their consumption behaviors and habits.
+
+## Agricultural Bank of China
+
+Business Hall Lobby manager 2022.07-2022.09
+
+> Arrange customers reasonably according to customer needs and complexity of handling business; Coordinate front desk staff to ensure good service experience for customers.
+
+> Assist customers to fill in the application form for account opening and check the required identity documents.
+
+> To provide loan consulting services for customers of second-hand housing sales and agricultural products operations, including loan types, quotas, interest rates and other related information.
+
+# Extracurricular activities
+
+## CIMA Business Tournament
+
+> The comprehensive analysis of the tea making company's financial situation, market competition environment, strategic plans, and other aspects to help them solve current problems and give implementation plans.
+
+$>$ Our team performed well in both written and oral test and successfully ranked among the top 4 to enter the final stage.
+
+## Hong Kong CPA Business Competition
+
+> Making an in-depth analysis the development of pharmaceutical companies in terms of market size, competition pattern and consumption trend under the economic downturn environment, then put forward a series of feasible strategies and suggestions to help companies stand out in the fierce market competition.
+
+## L 'Oreal Brainstorm
+
+> Posters and videos are made to show the sustainable development of cosmetics, and combined with the new media industry, a series of innovative solutions are proposed for the current development bottleneck of the cosmetics industry, in order to promote the rapid development of the industry.
+
+> Our team has been ranked near the top 100 in the world, and our thinking and efforts on the sustainable development of cosmetics have been recognized.
+
+## 24 hours of PWC Cup Showdown
+
+> In the dessert retail market, focusing on the dessert retail industry in the market positioning, product innovation and future development direction of strategic planning; We put forward the strategic planning for the future development of the dessert retail industry, including product line expansion, technological innovation, global market layout and so on.
+
+> The team achieved the 97 th place in the country.
+
+# Other information
+
+Language: Fluent in English, English-only class environment, summer school study at UW-Madison.
+
+IT skills: Office; PS; MATLAB; JAVA; PYTHON; STATA; R studio
+
+Certifications/Training: Prepare for Securities Practice Qualification and Futures Practice Qualification
+
+Interests: Cycling; Playing guitar; travel
